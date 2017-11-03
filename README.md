@@ -1,5 +1,5 @@
-## iot-uaa-isoc
+## iot-nbtc-itu
 
-This repository contains the material used and developped for a training on Internet of Things given at the University of Addis Ababa and organized by the Internet Society. 
+This repository contains the material used and developed for the hands-on sessions during the NBTC (National Broadcasting and Telecommunications Commision) and ITU (International Telecommunication Union) IoT training held in Bangkok from 27 to 30 of November 2017.
 
-[Click to access course agenda](agenda.md)
+[Click to access hands-on sessions](agenda.md)
