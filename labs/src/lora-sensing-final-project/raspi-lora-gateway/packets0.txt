@@ -1,0 +1,2 @@
+09:43:28 - Ch 1, SNR -13, RSSI -120, FreqErr 17.2, Bytes 228, Type 4Ch
+09:45:50 - Ch 1, SNR -13, RSSI -120, FreqErr 16.7, Bytes 228, Type FAh

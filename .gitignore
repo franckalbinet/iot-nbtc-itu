@@ -1,0 +1,43 @@
+# tmp files
+*.log
+*~
+
+# local files
+node_modules
+bower_components
+.ipynb_checkpoints/
+
+# ide files
+*.iml
+.idea
+.project
+
+# vim files
+.*.swp
+
+# builds ignore
+
+# mac
+.DS_Store
+
+# python files
+*.pyc
+__pycache__/
+
+# ctag
+.tags
+
+# files for gh-pages and grunt-contrib-jasmine
+.grunt
+
+/.vs
+
+# Folders ignored
+videos/
+
+softs/anaconda
+softs/atom
+softs/filezilla
+
+
+
