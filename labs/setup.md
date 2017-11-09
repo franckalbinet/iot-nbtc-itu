@@ -27,6 +27,8 @@ We will use Atom to write Python code during the labs sessions.
 
 To install it, download the installation file for your Operating System here: [https://atom.io/](https://atom.io/)
 
+Most recent version is: 1.22 and will work properly.
+
 ## Installing Atom Pymakr plugin
 The Python code written will not be executed in your local machine. Instead, you need to transfer it to your IoT device (in our case Pycom Lopy). To do so, [Pycom](https://www.pycom.io/) developed a plugin named **Pymakr** that will facilitate the execution and syncing of Python to the device.
 
@@ -38,6 +40,8 @@ To install the plugin in Atom:
 
 ![img/install-pymkr.png](http://i.imgur.com/Of2NTPR.png)
 
+Most recent version is: 1.2.0 and will work properly.
+
 ## Upgrading Pysense board firmware
 Pycom devices are under constant development and improvement. You must make sure you have the latest firmware version installed. 
 
@@ -48,7 +52,9 @@ Python comes in different flavours: different versions and different environment
 
 So in order to not screw up your installation, it is advised to install Anaconda https://anaconda.org/ which provides a very convenient way to run various Python version with various set of Python modules and libraries in an isolated and safe way.
 
-For our labs, we will use Anaconda version 3.6 https://www.continuum.io/downloads
+To install it, download the installation file for your Operating System here: https://www.continuum.io/downloads
+
+Most recent version is: 5.0.1 and will work properly.
 
 ### [OPTIONAL]: Creating a new environment using Python 2.7
 
@@ -100,7 +106,7 @@ To copy files from your machine to the Raspberry PI or the opposite over the SSH
 
 ## Downloading course material
 
-Course material can be download as a `zipped` archive [here](../downloads).
+Coming soon ...
 
 ## Troubleshooting
 ### Windows 7 drivers
