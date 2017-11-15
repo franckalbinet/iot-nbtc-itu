@@ -121,7 +121,11 @@ We do not want to waste time checking button's state every `100μs` (just an ord
 
 ISR, is a special block of code associated with a specific interrupt condition, here button status. When this condition is met, a `handler` (a function) will be called to "do something" in response.
 
+[For further reference: http://www.electronics-base.com/useful-info/software-related/90-polling-vs-interrupt]([(http://www.electronics-base.com/useful-info/software-related/90-polling-vs-interrupt)
+
 When an interrupt occurs, the current task is halted (preempts the current flow of control), execution context is saved, the interrupt handler "do something" (in our case simply print a message) and then previous execution is restored. For many reasons, it is highly desired that the interrupt handler executes as briefly as possible. Consider for instance that several interrupts might occur more or less simultaneously and the system need to manage priorities and concurrency.
+
+
 
 In our case this is simple:
 
