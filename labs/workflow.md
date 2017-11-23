@@ -8,7 +8,9 @@
 
 [3. Fetching data from the Lopy with Filezilla](#fetching-data-from-the-lopy-with-filezilla)
 
-[4. Uploading/syncing a subfolder](#syncing-a-subfolder)
+[4. Fetching data from the WiPy directly from Atom](#fetching-data-from-the-wipy-directly-from-atom)
+
+[5. Uploading/syncing a subfolder](#syncing-a-subfolder)
 
 ## Pycom typical workflow
 
@@ -51,7 +53,7 @@ os.mkfs('/flash')
 ```
 then reboot.
 
-## Fetching data from the Lopy/WiPy with Filezilla
+## Fetching data from the WiPy with Filezilla
 
 > Warning: Your device's WiFi should be in Acces Point mode.
 
@@ -69,7 +71,7 @@ These steps are illustrated in the following video:
 
 https://www.youtube.com/watch?v=8bHJWAezaB0&feature=youtu.be
 
-## Fetching data from the Lopy/WiPy directly from Atom
+## Fetching data from the WiPy directly from Atom
 Since Atom Pymakr package version 1.2.0, it is now possible to download code from Pycom devices to your machine by simply clicking on the `Download` button at the top-right of the Pymakr console.
 
 ![](https://i.imgur.com/cDwrvjr.png)
