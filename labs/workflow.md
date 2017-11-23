@@ -6,7 +6,7 @@
 
 [2. Resetting your device](#resetting)
 
-[3. Fetching data from the Lopy with Filezilla](#fetching-data-from-the-lopy-with-filezilla)
+[3. Fetching data from the WiPy with Filezilla](#fetching-data-from-the-wipy-with-filezilla)
 
 [4. Fetching data from the WiPy directly from Atom](#fetching-data-from-the-wipy-directly-from-atom)
 
