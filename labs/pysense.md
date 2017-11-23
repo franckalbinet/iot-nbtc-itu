@@ -33,7 +33,7 @@ In this lab., we will provide a series of examples:
 * measuring temperature and atmospheric pressure `src/pysense/temp-bar`
 * measuring temperature and humidity `src/pysense/temp-hum` 
 
-Pycom provides a library (a set of Python modules) abstracting the implementation details of sensor chips (as you will see below). This library is already included in labs source code under the `lib` folder of each example. If you want to download or fetch the last version of this libary, please refer to [workflow-and-setup.md](workflow-and-setup.md)
+Pycom provides a library (a set of Python modules) abstracting the implementation details of sensor chips (as you will see below). This library is already included in labs source code under the `lib` folder of each example. 
 
 Let's take a look a the  `src/pysense/acceloremeter` first:
 
@@ -68,7 +68,7 @@ py = Pysense()
 
 For further information on I2C:
 * [wikipedia entry](https://en.wikipedia.org/wiki/I%C2%B2C)
-* [Pycom `I2C` class](https://docs.pycom.io/pycom_esp32/library/machine.I2C.html)
+* [Pycom `I2C` class](https://docs.pycom.io/chapter/firmwareapi/pycom/machine/I2C.html)
 * [I2C briefing by Marco Rainone, ICTP](references/i2csensors.pdf)
 
 2. then create a `LIS2HH12` object passing the previously created Pysense object as argument. While the `Pysense` object provides general purpose methods to communicate over the I2C bus, this object will further specify the address of the device (`LIS2HH12` sensor) and register addresses of interest to be used to calculate and give access to the 3-axis accelerometer measurements.

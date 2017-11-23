@@ -116,8 +116,7 @@ We start a cycle and limit it to 10.
 
 Switch on the LED and select the green color. Then sleep for 5 seconds. The sleep command accepts seconds (and not milliseconds not minutes!).
 
-## Exercises
+## Exercise
 
-1. Try to send an SOS message using the LED. The SOS is ---...--- in morse code, where a line is three times longer than a dot.
+Try to send an SOS message using the LED. The SOS is ---...--- in morse code, where a line is three times longer than a dot.
 
-2. Find out how short can the sleep be, while still having a blinking LED (and not a fixed one).
