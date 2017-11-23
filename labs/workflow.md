@@ -10,7 +10,7 @@
 
 [4. Fetching data from the WiPy directly from Atom](#fetching-data-from-the-wipy-directly-from-atom)
 
-[5. Syncing/uploading a subfolder](#syncing/uploading-a-subfolder)
+[5. Uploading a subfolder](#uploading-a-subfolder)
 
 ## Pycom typical workflow
 
@@ -76,7 +76,7 @@ Since Atom Pymakr package version 1.2.0, it is now possible to download code fro
 
 ![](https://i.imgur.com/cDwrvjr.png)
 
-## Syncing/uploading a subfolder
+## Uploading a subfolder
 This is important to note that only one folder/project should be open in Atom when using the Pymakr package. This said, this main folder can contain subfloders. Let's consider the example below where we open the `button` project/folder containing various subfolders. 
 
 If you want to sync. only one folder to the Pycom device. You must:
