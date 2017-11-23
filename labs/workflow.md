@@ -10,7 +10,7 @@
 
 [4. Fetching data from the WiPy directly from Atom](#fetching-data-from-the-wipy-directly-from-atom)
 
-[5. Uploading/syncing a subfolder](#syncing-a-subfolder)
+[5. Syncing/uploading a subfolder](#syncing/uploading-a-subfolder)
 
 ## Pycom typical workflow
 
