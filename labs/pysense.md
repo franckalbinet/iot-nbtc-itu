@@ -33,7 +33,7 @@ In this lab., we will provide a series of examples:
 * measuring temperature and atmospheric pressure `src/pysense/temp-bar`
 * measuring temperature and humidity `src/pysense/temp-hum` 
 
-Pycom provides a library (a set of Python modules) abstracting the implementation details of sensor chips (as you will see below). This library is already included in labs source code under the `lib` folder of each example. If you want to download or fetch the last version of this libary, please refer to [workflow-and-setup.md](workflow-and-setup.md)
+Pycom provides a library (a set of Python modules) abstracting the implementation details of sensor chips (as you will see below). This library is already included in labs source code under the `lib` folder of each example. 
 
 Let's take a look a the  `src/pysense/acceloremeter` first:
 
