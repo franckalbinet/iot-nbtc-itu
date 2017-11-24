@@ -1,15 +1,15 @@
 #/bin/bash
 
-folder_name=iot-uaa-isoc-material
+folder_name=iot-nbtc-itu
 
 mkdir $folder_name
 
 # Copy files
-cp ../agenda.md $folder_name
 
 # Copy folders
 cp -R ../labs $folder_name
 cp -R ../python-fundamentals $folder_name 
+cp -R ../presentations $folder_name 
 cp -R ../softs/pycom $folder_name
 echo "Files copied successfully!"
 
