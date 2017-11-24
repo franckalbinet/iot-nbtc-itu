@@ -39,6 +39,4 @@ softs/anaconda
 softs/atom
 softs/filezilla
 
-2-exercise-bangkok-air-quality-solution.ipynb
-
-_trainers_only 
+_trainers_only/* 
