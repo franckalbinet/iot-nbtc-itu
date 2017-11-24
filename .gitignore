@@ -39,6 +39,5 @@ softs/anaconda
 softs/atom
 softs/filezilla
 
-_trainers_only/ 
-_trainers_only/* 
+_trainers_only/** 
 
